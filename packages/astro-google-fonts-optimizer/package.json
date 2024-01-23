@@ -1,11 +1,11 @@
 {
-  "name": "astro-google-fonts-optimizer",
+  "name": "gfont-optimizer-astro",
   "description": "An Astro integration to optimize the Google Fonts loading performance",
   "version": "0.2.3",
   "private": false,
   "type": "module",
   "types": "index.d.ts",
-  "homepage": "https://github.com/sebholstein/astro-google-fonts-optimizer",
+  "homepage": "https://github.com/antoninadert/astro-google-fonts-optimizer",
   "exports": {
     ".": "./index.js",
     "./font-utils": "./font-utils.ts",
